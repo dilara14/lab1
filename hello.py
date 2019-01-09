@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-name = 'Aralid'
+name = 'Dilara'
 
 print('Hello, ' + name + '!')
